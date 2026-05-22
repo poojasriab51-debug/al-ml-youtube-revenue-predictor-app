@@ -26,7 +26,7 @@ streamlit run app.py --server.address=0.0.0.0 --server.port=8501
 ```
 
 Then open:
-- http://localhost:8501
+https://al-ml-youtube-revenue-predictor-app-byt5zrkn2zmshuxxtv2aff.streamlit.app/
 
 ## What’s in this repo?
 
