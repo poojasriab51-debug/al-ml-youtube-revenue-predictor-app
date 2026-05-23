@@ -1,4 +1,4 @@
-# AL/ML YouTube Revenue Predictor App
+# AL/ML YouTube Revenue Predictor App     preview ; https://youtube-adrevenuepredictor-51f814.netlify.app/
 
 This repository contains an end-to-end **ML model + Streamlit web app** to predict **YouTube ad revenue** from video performance and channel attributes.
 
