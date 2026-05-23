@@ -1,4 +1,4 @@
-# AL/ML YouTube Revenue Predictor App     preview ; https://youtube-adrevenuepredictor-51f814.netlify.app/
+# AL/ML YouTube Revenue Predictor App     preview ; https://al-ml-youtube-revenue-predictor-app-byt5zrkn2zmshuxxtv2aff.streamlit.app/
 
 This repository contains an end-to-end **ML model + Streamlit web app** to predict **YouTube ad revenue** from video performance and channel attributes.
 
@@ -19,7 +19,7 @@ This repository contains an end-to-end **ML model + Streamlit web app** to predi
 
 ## Live app (local)
 
-To run locally:
+To run locally:  https://youtube-adrevenuepredictor-51f814.netlify.app/ this was vision 
 
 ```bash
 streamlit run app.py --server.address=0.0.0.0 --server.port=8501
