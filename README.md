@@ -19,13 +19,13 @@ This repository contains an end-to-end **ML model + Streamlit web app** to predi
 
 ## Live app (local)
 
-To run locally:  https://youtube-adrevenuepredictor-51f814.netlify.app/ this was vision 
+  https://youtube-adrevenuepredictor-51f814.netlify.app/   this was  the vision 
 
 ```bash
 streamlit run app.py --server.address=0.0.0.0 --server.port=8501
 ```
 
-Then open:
+My actual project from scratch .
 https://al-ml-youtube-revenue-predictor-app-byt5zrkn2zmshuxxtv2aff.streamlit.app/
 
 ## What’s in this repo?
